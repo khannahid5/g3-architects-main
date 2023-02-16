@@ -292,3 +292,7 @@
     text-align: center;
     padding: 20px;
 }
+
+
+/* media qiary  */
+@media screen and (max-width:576) {}
